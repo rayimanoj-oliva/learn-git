@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-this is me (new-branch)
-
-this is my very new change
-=======
-this is manoj
->>>>>>> main
+these are totally new changes
