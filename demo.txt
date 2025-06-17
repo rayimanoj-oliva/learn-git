@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is manoj
+=======
+this is me (new-branch)
+>>>>>>> new
